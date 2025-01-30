@@ -1,0 +1,12 @@
+# Ignorar o ambiente virtual
+meu_ambiente/
+venv/
+
+# Ignorar modelos de IA
+models/
+
+# Ignorar arquivos sensíveis e temporários
+*.log
+*.cache
+__pycache__/
+.env
